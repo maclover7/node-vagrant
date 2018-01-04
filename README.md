@@ -1,6 +1,6 @@
 # node-vagrant
 
-A collection of Vagrantfiles used while testing `node/build` Ansible
+A collection of Vagrantfiles used while testing `nodejs/build` Ansible
 scripts.
 
 ### License
